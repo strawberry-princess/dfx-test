@@ -7,7 +7,7 @@ var siteData = {
   },
   "hero": {
     "videoFile": "",
-    "imageFile": "images/hero/dh.jpeg",
+    "imageFile": "images/hero/KakaoTalk_Photo_2026-04-27-21-04-09_복사본.jpeg",
     "eyebrow_en": "Robotics Research Lab · Hanbat National University",
     "eyebrow_ko": "로보틱스 연구실 · Hanbat National University",
     "desc_en": "We build robot systems that solve real industry problems — semiconductors, smart farms, and anything in between. X is the variable.",
