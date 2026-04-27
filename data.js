@@ -7,7 +7,7 @@ var siteData = {
   },
   "hero": {
     "videoFile": "",
-    "imageFile": "images/hero/far_bmp3_10.jpg",
+    "imageFile": "images/hero/near_t80_43.jpg",
     "eyebrow_en": "Robotics Research Lab · Hanbat National University",
     "eyebrow_ko": "로보틱스 연구실 · Hanbat National University",
     "desc_en": "We build robot systems that solve real industry problems — semiconductors, smart farms, and anything in between. X is the variable.",
@@ -45,7 +45,7 @@ var siteData = {
         "Cleanroom",
         "Wafer-scale"
       ],
-      "mediaFile": ""
+      "mediaFile": "images/research/0d0675ad-f4b9-4cca-b799-44572773eb2a.png"
     },
     {
       "id": 2,
