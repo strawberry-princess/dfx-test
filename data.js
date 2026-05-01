@@ -7,11 +7,11 @@ var siteData = {
   },
   "hero": {
     "videoFile": "",
-    "imageFile": "images/hero/dh.jpeg",
-    "eyebrow_en": "Robotics Research Lab · Hanbat National University",
-    "eyebrow_ko": "로보틱스 연구실 · Hanbat National University",
-    "desc_en": "We build robot systems that solve real industry problems — semiconductors, smart farms, and anything in between. X is the variable.",
-    "desc_ko": "반도체, 스마트팜 그리고 그 사이의 모든 것 — 산업 현장의 문제를 푸는 로봇 시스템을 만듭니다. X는 변수입니다.",
+    "imageFile": "images/hero/460pig_100668.ico",
+    "eyebrow_en": "ooo Lab · Hanbat National University",
+    "eyebrow_ko": "ooo 연구실 · Hanbat National University",
+    "desc_en": "Our lab does not limit its research scope to any specific area. Instead, from a computer science perspective, we identify a wide range of problems that need to be solved, devise ideas for addressing them, develop algorithms, and implement them in software or hardware.",
+    "desc_ko": "본 연구실에서는 연구 내용의 범위를 특정 영역에 한정하지 않고, 컴퓨터공학의 관점에서 해결이 필요한 다양한 문제점을 발굴하여, 해결을 위한 아이디어를 구상하고 알고리즘을 개발하여 소프트웨어 또는 하드웨어로 구현합니다.",
     "stats": [
       {
         "n": "04",
